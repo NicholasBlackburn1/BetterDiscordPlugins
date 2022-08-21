@@ -68,7 +68,7 @@
 				{re: /no dick/gmi, file: "nodick.mp3", duration: 470},
 				{re: /hit me/gmi, file: "hitme.mp3", duration: 470},
 				{re: /suck me/gmi, file: "suck.mp3", duration: 470},
-			
+				{re: /moaning/gmi, file: "bf moaning.mp3", duration: 470},
 			
 			];
 
